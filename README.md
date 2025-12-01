@@ -1,2 +1,4 @@
 # dataset-2025-prova
-Research artifact: dataset
+
+Type: dataset
+Year: 2025
